@@ -1,0 +1,16 @@
+/* Selectors estão abaixo - o exeplo abaixo seletor: h1{ color - propriedade; value : red .....;propety; 1px */
+h1{
+    color: blueviolet;
+}
+.segundo-h2{
+    color: blue;
+}
+/* qdo colocar id coloca-se # na frente */
+#verde{
+    color: cadetblue;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
